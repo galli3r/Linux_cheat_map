@@ -1,1 +1,1 @@
-# Linux_cheet_map
+# Linux_cheat_map
