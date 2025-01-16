@@ -17,7 +17,11 @@ tbd
 tbd
 
 # Hardware Information
-tbd
+|Command | Discription |
+|------------|---|
+|lspci |shows PCI Devices |
+|lsusb |shows USB Divices
+
 
 # File Compression
 tbd
